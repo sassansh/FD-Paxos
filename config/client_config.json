@@ -1,0 +1,7 @@
+{
+    "ClientID": "client1",
+    "ServerAddrList": ["127.0.0.1:25690", "127.0.0.1:26690", "127.0.0.1:27690", "127.0.0.1:28690", "127.0.0.1:29690"],
+    "TracingServerAddr": ":24680",
+    "Secret": "",
+    "TracingIdentity": "client1"
+}
