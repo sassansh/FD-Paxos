@@ -26,7 +26,7 @@
 
 ## Project Spec 🎯
 
-For a PDF containing the assignent's specifications, please view [project-spec.pdf](https://github.com/sassansh/FD-Paxos/blob/main/project-spec.pdf).
+For a PDF containing the project's specifications, please view [project-spec.pdf](https://github.com/sassansh/FD-Paxos/blob/main/project-spec.pdf).
 
 ## Final Report 📑
 
