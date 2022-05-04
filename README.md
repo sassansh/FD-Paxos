@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-    <img src="images/diagram.jpg" alt="Logo" width="500" >
+    <img src="images/diagram.jpg" alt="Logo" width="700" >
 </p>
 
 ## Table of Contents
