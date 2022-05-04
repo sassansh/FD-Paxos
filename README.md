@@ -30,7 +30,7 @@ For a PDF containing the assignent's specifications, please view [project-spec.p
 
 ## Final Report 📑
 
-For a detailed final report written on the project, please view [final-report.pdf](https://github.com/sassansh/FD-Paxos/blob/main/assignment-spec.pdf).
+For a detailed final report written on the project, please view [final-report.pdf](https://github.com/sassansh/FD-Paxos/blob/main/final-report.pdf).
 
 ## Technology Stack 🛠️
 
